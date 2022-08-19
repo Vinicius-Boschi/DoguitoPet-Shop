@@ -1,6 +1,5 @@
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/74377158/185704715-0ab8b1db-55bb-47a0-b1e4-689c16642661.svg
-" width=150>
+  <img src="./projeto_inicial/admin/assets/img/doguito.svg" width=150>
 </div>
 
 <h3> :dart: Objetivos do site</h3>
